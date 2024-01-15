@@ -1,0 +1,140 @@
+#textField {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: lighter;
+	color: #0b3A6d;
+	border-width: 1px;
+	border-color: #2791ee;
+	background-color: #ffffff;
+	border-style: solid;
+	border-radius: 5px;
+	text-align: left;
+}
+
+#textField:hover {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: lighter;
+	color: #0b3A6d;
+	border-width: 1px;
+	border-color: #2791ee;
+	background-color: #ffffff;
+	box-shadow: 0px 1px 2px 1px rgba(39, 145, 238,0.2);
+	border-style: solid;
+	border-radius: 5px;
+	text-align: left;
+}
+
+#primaryButton {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0b3A6d;
+	border-width: 1px;
+	border-color: #7DBE31;
+	background-color: #7DBE31;
+	border-style: solid;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#primaryButton:hover {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0b3A6d;
+	border-width: 1px;
+	border-color: #66992b;
+	background-color: #7DBE31;
+	border-style: solid;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#secondaryButton {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #7DBE31;
+	border-width: 1px;
+	border-color: #7DBE31;
+	background-color: #ffffff;
+	border-style: solid;
+	border-radius: 5px;
+	text-align: center;
+}
+#secondaryButton:hover {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #7DBE31;
+	border-width: 1px;
+	border-color: #66992b;
+	background-color: #ffffff;
+	border-style: solid;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#link {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #6d6d6d;
+	border-width: 0px;
+	background-color: #ffffff;
+	border-style: none;
+	text-align: center;
+}
+
+#link:hover {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #3d3d3d;
+	border-width: 0px;
+	background-color: #ffffff;
+	border-style: none;
+	text-align: center;
+}
+
+#secondaryLink {
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #2791ee;
+	border-width: 0px;
+	background-color: #ffffff;
+	border-style: none;
+	text-align: left;
+}
+#secondaryLink:hover {
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #0b3A6d;
+	border-width: 0px;
+	background-color: #ffffff;
+	border-style: none;
+	text-align: left;
+}
+
+
